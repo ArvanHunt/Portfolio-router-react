@@ -1,5 +1,5 @@
 import React from 'react';
-import Resume from '../assets/Arvan_resume_frontend_fresher-1.pdf'
+import ArvanResumeFrontendDeveloperFresher from '../assets/Arvan_resume_frontend_fresher-1.pdf'
 
 
 function HireMe() {
@@ -80,8 +80,8 @@ function HireMe() {
 
       <div>
           <a
-            href={Resume}
-            download="Resume"
+            href={ArvanResumeFrontendDeveloperFresher}
+            download="ArvanResumeFrontendFresher"
             className="border-2 px-7 py-3 m-5 text-teal-300 border-teal-300 rounded-md text-xs font-mono
              hover:bg-teal-300 hover:text-blue-950 transition duration-300"
           >
