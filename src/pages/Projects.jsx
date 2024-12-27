@@ -3,6 +3,7 @@ import photo1 from '../Photos/photo1.png'
 import photo2 from '../Photos/photo2.png'
 import pic00 from '../Photos/pic00.png'
 import pic10 from '../Photos/pic10.png'
+import pic20 from '../Photos/pic20.png'
 import pic30 from '../Photos/pic30.png'
 import pic40 from '../Photos/pic40.png'
 
@@ -26,6 +27,12 @@ function Projects() {
           hover:shadow-lg hover:shadow-blue-500 transition duration-300' 
           src={photo2} alt="curr conv" />
           <p className='ml-40 mt-5 text-slate-400'>Password Generator - React</p>
+      </div>
+      <div>
+          <img className='h-44 rounded-lg ml-40 mt-10 
+          hover:shadow-lg hover:shadow-blue-500 transition duration-300' 
+          src={pic20} alt="curr conv" />
+          <p className='ml-40 mt-5 text-slate-400'>Meme-Generator - React</p>
       </div>
       <div>
           <img className='h-44 rounded-lg ml-40 mt-10 
