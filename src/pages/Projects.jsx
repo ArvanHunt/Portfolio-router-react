@@ -6,6 +6,11 @@ import pic10 from '../Photos/pic10.png'
 import pic20 from '../Photos/pic20.png'
 import pic30 from '../Photos/pic30.png'
 import pic40 from '../Photos/pic40.png'
+import pic24 from '../Photos/pic24.png'
+import pic22 from '../Photos/pic22.png'
+import pic23 from '../Photos/pic23.png'
+import pic21 from '../Photos/pic21.png'
+
 
 function Projects() {
   return (
@@ -16,11 +21,36 @@ function Projects() {
              <span className='text-teal-300 text-4xl m-1 ml-5 font-mono'>React Router</span>
               Project.
               </h1>
-      <div>
+
+              <div>
           <img className='h-44 rounded-lg ml-40 mt-10 
           hover:shadow-lg hover:shadow-blue-500 transition duration-300' 
           src={photo1} alt="curr conv" />
           <p className='ml-40 mt-5 text-slate-400'>Currency Converter - React</p>
+      </div>        
+      <div>
+          <img className='h-44 rounded-lg ml-40 mt-10 
+          hover:shadow-lg hover:shadow-blue-500 transition duration-300' 
+          src={pic24} alt="curr conv" />
+          <p className='ml-40 mt-5 text-slate-400'>E-Cart - React</p>
+      </div>
+      <div>
+          <img className='h-44 rounded-lg ml-40 mt-10 
+          hover:shadow-lg hover:shadow-blue-500 transition duration-300' 
+          src={pic22} alt="curr conv" />
+          <p className='ml-40 mt-5 text-slate-400'>Markdown Preview - React</p>
+      </div>
+      <div>
+          <img className='h-44 rounded-lg ml-40 mt-10 
+          hover:shadow-lg hover:shadow-blue-500 transition duration-300' 
+          src={pic23} alt="curr conv" />
+          <p className='ml-40 mt-5 text-slate-400'>Memory game - react</p>
+      </div>
+      <div>
+          <img className='h-44 rounded-lg ml-40 mt-10 
+          hover:shadow-lg hover:shadow-blue-500 transition duration-300' 
+          src={pic21} alt="curr conv" />
+          <p className='ml-40 mt-5 text-slate-400'>Expense Tracker - React</p>
       </div>
       <div>
           <img className='h-44 rounded-lg ml-40 mt-10 
