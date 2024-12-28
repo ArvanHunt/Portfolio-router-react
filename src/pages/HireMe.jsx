@@ -30,7 +30,9 @@ function HireMe() {
        to contribute to your team's success. Let's create something impactful together!
       </p>
 
-      <h1 className='text-slate-500 mt-4 ml-5 mb-11 text-xl'>Ready to hire me? Feel free to get in touch or
+      <h1 className='text-slate-500 mt-4 ml-5 mb-11 text-xl'>Ready to 
+        <span className="text-teal-300 text-2xl font-mono"> Hire me? </span>
+         Feel free to get in touch or
       <span className='text-teal-300 text-2xl font-mono'> Download</span> my<span className='text-teal-300 text-2xl font-mono'> Resume</span> to learn more about my
       <span className='text-teal-300 text-2xl font-mono'> Skills </span> 
       and experience.

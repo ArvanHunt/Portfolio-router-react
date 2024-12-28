@@ -21,6 +21,7 @@ function Projects() {
              <span className='text-teal-300 text-4xl m-1 ml-5 font-mono'>React Router</span>
               Project.
               </h1>
+              
 
               <div>
           <img className='h-44 rounded-lg ml-40 mt-10 
@@ -82,10 +83,18 @@ function Projects() {
           <img className='h-44 rounded-lg ml-40 mt-10 hover:shadow-lg hover:shadow-blue-500 transition duration-300' src={pic40} alt="curr conv" />
           <p className='ml-40 mt-5 text-slate-400'>Text to Speech - Java Script</p>
       </div>
-      <p className='ml-40 mt-8 text-slate-400 text-3xl'>More 
-        <span className='text-teal-300 text-4xl m-1 ml-5 font-mono'> Projects </span> 
+      <p className="ml-40 mt-8 text-slate-400 text-3xl">
+            More 
+                <span className="text-teal-300 text-4xl m-1 ml-5 font-mono">Projects</span> 
             at 
-        <span className='text-teal-300 text-4xl m-1 ml-5 font-mono'> Github </span>
+             <a 
+            href="https://github.com/ArvanHunt?tab=repositories" 
+            target="_blank" 
+            rel="noopener noreferrer"
+            className="text-teal-300 text-4xl m-1 ml-5 font-mono underline"
+            >
+            GitHub
+            </a>
             </p>
       
     </div>
