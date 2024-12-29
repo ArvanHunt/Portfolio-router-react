@@ -35,7 +35,7 @@ function About() {
         
       <p className='ml-10 mt-5 text-gray-500 font-mono text-xl' >When I’m not coding, 
         I explore new design trends, collaborate on exciting projects, and continuously 
-      <span className='text-teal-300 text-2xl font-mono'> Expand</span> 
+      <span className='text-teal-300 text-2xl font-mono'> Expand </span> 
       my skill set.
       </p>
       <p className='ml-10 mt-5 text-gray-500 font-mono text-xl'>
