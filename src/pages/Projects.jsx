@@ -10,6 +10,7 @@ import pic24 from '../Photos/pic24.png'
 import pic22 from '../Photos/pic22.png'
 import pic23 from '../Photos/pic23.png'
 import pic21 from '../Photos/pic21.png'
+import pic0 from '../Photos/project management tool.png'
 
 
 function Projects() {
@@ -21,7 +22,12 @@ function Projects() {
              <span className='text-teal-300 text-4xl m-1 ml-5 font-mono'>React Router</span>
               Project.
               </h1>
-              
+              <div>
+          <img className='h-44 rounded-lg ml-40 mt-10 
+          hover:shadow-lg hover:shadow-blue-500 transition duration-300' 
+          src={pic0} alt="curr conv" />
+          <p className='ml-40 mt-5 text-slate-400'>Project Management Tool - React</p>
+      </div>
 
               <div>
           <img className='h-44 rounded-lg ml-40 mt-10 
