@@ -10,12 +10,13 @@ import pic24 from '../Photos/pic24.png'
 import pic22 from '../Photos/pic22.png'
 import pic23 from '../Photos/pic23.png'
 import pic21 from '../Photos/pic21.png'
+import pic50 from '../Photos/pic50.png'
 import pic0 from '../Photos/project management tool.png'
 
 
 function Projects() {
   return (
-    <div className='grid grid-cols-2 py-5 gap-0 bg-blue-950 '>
+    <div className='grid grid-cols-3 py-5 gap-0 bg-blue-950 '>
           <div>
           <h1 className="ml-10 mt-8 text-slate-400 text-3xl">
               This
@@ -37,6 +38,21 @@ function Projects() {
                Click on PORTFOLIO to check this project 
             </p>
           </div> 
+
+          <div className="ml-10 mt-10">
+            <a 
+              href="https://github.com/ArvanHunt/ToDo-reactjs" 
+              target="_blank" 
+              rel="noopener noreferrer"
+            >
+              <img  
+                className="h-44 rounded-lg hover:shadow-lg hover:shadow-blue-500 transition duration-300" 
+                src={pic50} 
+                alt="ToDo - React" 
+              />
+            </a>
+            <p className="mt-5 text-slate-400">ToDo - React</p>
+          </div>
 
           <div className="ml-10 mt-10">
             <a 
@@ -229,7 +245,7 @@ function Projects() {
             <p className="mt-5 text-slate-400">Text to Speech - JavaScript</p>
           </div>
 
-
+          <div>
           <p className="ml-10 mt-8 text-slate-400 text-3xl">
               More 
             <span className="text-teal-300 text-4xl m-1 ml-5 font-mono">Projects</span> 
@@ -243,6 +259,7 @@ function Projects() {
               GitHub
             </a>
           </p>
+          </div>
       
     </div>
   )
