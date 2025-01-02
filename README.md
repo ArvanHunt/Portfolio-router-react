@@ -8,7 +8,7 @@ Welcome to my personal portfolio website! This project is a showcase of my skill
 ## Features ✨ *** v v v imp ***
 
 - **Responsive Design:** Seamlessly adapts to all devices, from desktops to mobile phones.
-- 
+ 
 - **Dynamic Routing:** Navigate effortlessly between different sections using React Router.
 - 
 - **Projects Section:** Highlighting my key projects with GitHub links.
