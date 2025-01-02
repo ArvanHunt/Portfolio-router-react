@@ -5,13 +5,17 @@ Welcome to my personal portfolio website! This project is a showcase of my skill
 
 ---
 
-## Features ✨
+## Features ✨ *** v v v imp ***
 
-- **Responsive Design:** Seamlessly adapts to all devices, from desktops to mobile phones.  
-- **Dynamic Routing:** Navigate effortlessly between different sections using React Router.  
-- **Projects Section:** Highlighting my key projects with live demos and GitHub links.  
-- **About Me:** An introduction to who I am, my skills, and what I bring to the table.  
-- **Contact Form:** Get in touch with me directly through a functional contact form.  
+- **Responsive Design:** Seamlessly adapts to all devices, from desktops to mobile phones.
+- 
+- **Dynamic Routing:** Navigate effortlessly between different sections using React Router.
+- 
+- **Projects Section:** Highlighting my key projects with GitHub links.
+- 
+- **About Me:** An introduction to who I am, my skills, and what I bring to the table.
+- 
+- **Hire Me:** Get in touch with me directly through a functional contact form.  
 
 ---
 
